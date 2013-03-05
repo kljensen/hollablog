@@ -4,3 +4,4 @@
 * Flask-Angular starter
 * Coffeescript in production branch for heroku
 * D3JS in Angular using multiple directives
+* Initiating Celery workers WITHOUT Django :)
