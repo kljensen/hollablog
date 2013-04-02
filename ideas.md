@@ -5,3 +5,5 @@
 * Coffeescript in production branch for heroku
 * D3JS in Angular using multiple directives
 * Initiating Celery workers WITHOUT Django :)
+* Add additional toggle functionality when using twitter boostrap and angular - toggle an icon class along with the button toggle
+* SSE / redis client detachment management
